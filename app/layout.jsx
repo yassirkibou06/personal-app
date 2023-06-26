@@ -8,7 +8,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import { usePathname } from 'next/navigation';
 
 
-export const metadata = {
+export const Metadata = {
   title: "Pola",
   description: "My portfolio website",
 };
