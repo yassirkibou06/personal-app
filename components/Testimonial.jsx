@@ -6,6 +6,7 @@ import { Autoplay } from "swiper";
 import 'swiper/css';
 
 const Testimonial = () => {
+    // put your info (name,image,text=description)
     const boxInfo = [
         {
             name: "Paul Starr",

@@ -1,3 +1,4 @@
+/*change link of you font*/
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&display=swap');
 
 @tailwind base;
@@ -261,6 +262,11 @@ body {
   @apply absolute right-[-12%] sm:right-[-10%] lg:right-[-8%] top-0 p-1 border-2 border-white rounded-full
 }
 /* serrivecs end*/
+/*start profile*/
+.profile-box {
+    @apply bg-white p-2 border-[2px] border-scnd-gray w-[350px] h-[280px] cursor-pointer
+}
+/*end profile*/
 
 /*start contact */
 .input-contact {

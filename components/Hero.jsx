@@ -1,4 +1,5 @@
-import React from 'react';
+"use client"
+
 import CurvedTextWithImage from './CurvedTextWithImage';
 import { FaFacebookF, FaInstagram, FaBehance } from 'react-icons/fa';
 import Link from 'next/link';

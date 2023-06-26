@@ -8,7 +8,7 @@ const Profile = () => {
     const [open, setOpen] = useState(false);
     const [selectedService, setSelectedService] = useState({});
 
-    // Put your data here
+    // Put your data here (image,url for your project, descr)
     const ProfileInfo = [
         {
             id: 1,
@@ -59,8 +59,7 @@ const Profile = () => {
                 {ProfileInfo.map((item) => (
                     <div key={item.id}>
                         <motion.div
-                            className="box-contents"
-                            //whileHover={{ backgroundColor: "#e5d4be" }}
+                            className="profile-box"
                             whileHover={{ scale: 1.1 }}
                             onClick={() => handleOpen(item)}
                         >

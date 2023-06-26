@@ -7,9 +7,11 @@ module.exports = {
   ],
   theme: {
     extend: {
+      //put your font and go to styles/globals.css to change the link of your font
       fontFamily: {
         montserrat : ['Montserrat', 'sans-serif'],
       },
+      // change your color (!dont change name of color ex: 'pry-gray')
       colors: {
         'pry-gray': '#dedede',
         'pry-brown': '#E0B784',

@@ -8,7 +8,7 @@ const ServicesBox = () => {
     const [open, setOpen] = useState(false);
     const [selectedService, setSelectedService] = useState({});
 
-    // Put your data here
+    //// Put your data here
     const serviceInfo = [
         {
             id: 1,

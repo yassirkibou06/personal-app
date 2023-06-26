@@ -13,7 +13,7 @@ const Skills = () => {
         // { skill: 'figma', percentage: 90 },
         // Add more skills as needed
     ];
-    // your language skill "put your info"
+    // your languages "put your info"
     const yourSkillsLang = [
         { skillLang: 'English', percentage: 90 },
         { skillLang: 'Arabic', percentage: 70 },
