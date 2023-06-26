@@ -242,7 +242,7 @@ body {
 }
 
 .box-contents {
-  @apply bg-white p-2 border-[2px] border-scnd-gray w-[350px] h-[300px] cursor-pointer
+  @apply bg-white p-10 border-[2px] border-scnd-gray w-[350px] h-[280px] cursor-pointer
 }
 
 .box-icon {
