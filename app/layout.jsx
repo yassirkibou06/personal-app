@@ -9,7 +9,7 @@ import { usePathname } from 'next/navigation';
 
 
 export const Metadata = {
-  title: "Pola",
+  title: "Pola - Tailwind CSS Portfolio React/Next JS 13 Template",
   description: "My portfolio website",
 };
 
